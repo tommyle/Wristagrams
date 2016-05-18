@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController addMoreItem]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController viewDidLoad]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "c.index.intValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EditorViewController imagePickerController:didFinishPickingImage:editingInfo:]:EditorViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EditorViewController done]:EditorViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "path2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController GMGridView:didTapOnItemAtIndex:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((Cell*)[_currentData objectAtIndex:position]).text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController GMGridView:cellForItemAtIndex:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "c.image">
+            </PersistentString>
+            <PersistentString
+               value = "_currentData.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate getNextIndex]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "c.index.intvalue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController refreshGrid]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
